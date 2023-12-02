@@ -2,7 +2,7 @@
 all my practical work in the field of Security of Systems and Applications in 2022
 
 
-# TP1 :
+### TP1 :
 * Introduction to encryption: terminology includes encryption, cryptology, cryptography, and cryptogram.
 * Ciphering = encrypting? (decipher = decrypt)?
 * Cesar cipher! (implementation) Shift encryption!
@@ -10,7 +10,7 @@ all my practical work in the field of Security of Systems and Applications in 20
 
 
 
-# TP2 :
+### TP2 :
 * Symmetric encryption vs asymmetric encryption.
 * Digital signatures?!
 * Hash functions.
