@@ -3,10 +3,10 @@ all my practical work in the field of Security of Systems and Applications in 20
 
 
 # TP1 :
-Introduction to encryption: terminology includes encryption, cryptology, cryptography, and cryptogram.
-Ciphering = encrypting? (decipher = decrypt)?
-Cesar cipher! (implementation) Shift encryption!
-Why encryption? What purpose does it serve?
+* Introduction to encryption: terminology includes encryption, cryptology, cryptography, and cryptogram.
+* Ciphering = encrypting? (decipher = decrypt)?
+* Cesar cipher! (implementation) Shift encryption!
+* Why encryption? What purpose does it serve?
 
 
 
