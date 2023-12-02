@@ -2,6 +2,11 @@
 all my practical work in the field of Security of Systems and Applications in 2022
 
 
+![PRESENTATION  PfSense pptx (6)](https://github.com/othmanetaybi/SECURITY-OF-SYSTEMS-AND-APPLICATIONS/assets/82034036/ccbd5e2d-0617-4de4-9d80-9cdd971b0b9e)
+
+
+
+
 # TP1 :
 * Introduction to encryption: terminology includes encryption, cryptology, cryptography, and cryptogram.
 * Ciphering = encrypting? (decipher = decrypt)?
